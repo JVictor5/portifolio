@@ -75,7 +75,7 @@ const AboutSection = () => {
           <FaCode className="text-5xl text-white" />
         </div>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-white mb-4">Sobre Min</h2>
+          <h2 className="text-4xl font-bold text-white mb-4">Sobre Mim</h2>
           <p className="text-base lg:text-lg">
             Sou iniciante na área de desenvolvimento e ainda não tive experiência profissional, mas sou extremamente apaixonado por aprender e criar soluções inovadoras. Estou focado em adquirir e aprimorar minhas habilidades tanto no desenvolvimento front-end quanto no back-end, sempre buscando me atualizar com as últimas tecnologias e boas práticas do mercado.
           </p>
