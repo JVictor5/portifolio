@@ -7,10 +7,10 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row space-x-8 mb-6 justify-center items-center w-full">
           <a href="#about" className="hover:text-red-500 transition duration-300">
-            Sobre
+            Sobre Mim
           </a>
-          <a href="#services" className="hover:text-red-500 transition duration-300">
-            Produto
+          <a href="#projects" className="hover:text-red-500 transition duration-300">
+            Projetos
           </a>
           <a href="#contact" className="hover:text-red-500 transition duration-300">
             Contato
